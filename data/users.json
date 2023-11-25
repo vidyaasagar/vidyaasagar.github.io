@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "60dab881c7964b0ec3a1eafe"
+  },
+  "role": "user",
+  "name": "jason",
+  "email": "jason-user@yopmail.com",
+  "password": "$2a$10$h6Z9YC2PqhlX4kLzU49EI.xWpwSsafBd2kOaPsVzcgwjLDKSuAj.y",
+  "createdAt": {
+    "$date": "2021-06-29T06:06:57.402Z"
+  },
+  "resetPasswordExpire": {
+    "$date": "2021-07-02T08:19:54.255Z"
+  },
+  "resetPasswordToken": "745e05555ffeaf44f4250dfc8b9cba15594e2e03851635101a1b397259ca74d3"
+},{
+  "_id": {
+    "$oid": "60dc9bd3f6893d7c975257dc"
+  },
+  "role": "user",
+  "name": "vidyasagar",
+  "email": "vidyasagar.kudipudi@smartdatainc.net",
+  "password": "$2a$10$eY.H7ypvjQ6Acgdx7gGwPOVXjXW8vMDK3Vren8peTLnu0slq3hISG",
+  "createdAt": {
+    "$date": "2021-06-30T16:29:07.146Z"
+  },
+  "resetPasswordExpire": {
+    "$date": "2021-06-30T16:46:31.049Z"
+  },
+  "resetPasswordToken": "3b42d9a76f734dbd5961c3bd47099704a306d7eb49e9bb1c81aff4aaf86b35f9"
+},{
+  "_id": {
+    "$oid": "60e2b54663870529a3350c50"
+  },
+  "role": "user",
+  "name": "admin",
+  "email": "admin@example.com",
+  "password": "$2a$10$dVYfkEYwawwttpJ4L2j5w.HgbLdoLDQHt3b6LSaPVau.NFEynqRau",
+  "createdAt": {
+    "$date": "2021-07-05T07:31:18.658Z"
+  }
+}]

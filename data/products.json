@@ -1,0 +1,293 @@
+[{
+  "_id": {
+    "$oid": "5d725a4a7b292f5f8ceff789"
+  },
+  "pictureUrl": "https://dummyimage.com/320x320/d6d2d6/e8e8f0",
+  "pictureUrl2": "",
+  "keywords": [
+    "chicken",
+    "food",
+    "fried"
+  ],
+  "name": "Fried Chicken",
+  "description": " The dish that tastes good",
+  "type": "",
+  "typeof": "product",
+  "price": 30,
+  "store": {
+    "$oid": "5d713995b721c3bb38c1f5d0"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d725c84c4ded7bcb480eaa0"
+  },
+  "pictureUrl": "https://dummyimage.com/320x320/d6d2d6/e8e8f0",
+  "pictureUrl2": "",
+  "keywords": [
+    "chicken",
+    "food",
+    "fried"
+  ],
+  "name": "Roasted Chicken",
+  "description": "The dish with health benefits ",
+  "type": "",
+  "typeof": "product",
+  "price": 30,
+  "store": {
+    "$oid": "5d713995b721c3bb38c1f5d0"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d725cb9c4ded7bcb480eaa1"
+  },
+  "pictureUrl": "product-pictureUrl-1624602581980.png",
+  "pictureUrl2": "",
+  "keywords": [
+    "chicken",
+    "food",
+    "fried"
+  ],
+  "name": "Macaroni Pasta",
+  "description": " The dish that tastes good",
+  "type": "",
+  "typeof": "product",
+  "price": 30,
+  "store": {
+    "$oid": "5d713a66ec8f2b88b8f830b8"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d725cd2c4ded7bcb480eaa2"
+  },
+  "pictureUrl": "product-pictureUrl-1624604479040.png",
+  "pictureUrl2": "",
+  "keywords": [
+    "chicken",
+    "food",
+    "fried"
+  ],
+  "name": "Veg Noodles",
+  "description": "The dish that tastes good ",
+  "price": 30,
+  "type": "top products",
+  "typeof": "product",
+  "store": {
+    "$oid": "5d713a66ec8f2b88b8f830b8"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d725ce8c4ded7bcb480eaa3"
+  },
+  "pictureUrl": "product-pictureUrl-1624602936155.png",
+  "pictureUrl2": "",
+  "keywords": [
+    "chicken",
+    "food",
+    "fried"
+  ],
+  "name": "Chicken Caesar Salad",
+  "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "price": 30,
+  "type": "top products",
+  "typeof": "product",
+  "store": {
+    "$oid": "5d725a037b292f5f8ceff787"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d725cfec4ded7bcb480eaa4"
+  },
+  "pictureUrl": "product-pictureUrl-1624602581980.png",
+  "pictureUrl2": "",
+  "keywords": [
+    "burger",
+    "food",
+    "fried"
+  ],
+  "name": "Elk Burger",
+  "description": " The dish that tastes good",
+  "price": 30,
+  "type": "top products",
+  "typeof": "product",
+  "store": {
+    "$oid": "5d725a037b292f5f8ceff787"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d725cfec4ded7bcb480eaa5"
+  },
+  "pictureUrl": "product-pictureUrl-1624604495217.png",
+  "pictureUrl2": "",
+  "keywords": [
+    "chicken",
+    "food",
+    "fried"
+  ],
+  "name": "Amish Chicken",
+  "description": "The dish that tastes good ",
+  "price": 30,
+  "type": "featured products",
+  "typeof": "product",
+  "store": {
+    "$oid": "5d725a1b7b292f5f8ceff788"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d725cfec4ded7bcb480eaa6"
+  },
+  "pictureUrl": "product-pictureUrl-1624604516175.png",
+  "pictureUrl2": "",
+  "keywords": [
+    "fish",
+    "food",
+    "fried"
+  ],
+  "name": "Tuna Tartare",
+  "description": " The dish that tastes good",
+  "price": 30,
+  "type": "featured products",
+  "typeof": "product",
+  "store": {
+    "$oid": "5d725a1b7b292f5f8ceff788"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d725cfec4ded7bcb480eaa7"
+  },
+  "pictureUrl": "product-pictureUrl-1624604506490.png",
+  "pictureUrl2": "",
+  "keywords": [
+    "Burrito",
+    "food",
+    "fried"
+  ],
+  "name": "California Burrito",
+  "description": "The dish that tastes good ",
+  "price": 30,
+  "type": "featured products",
+  "typeof": "product",
+  "store": {
+    "$oid": "5d725a1b7b292f5f8ceff788"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  }
+},{
+  "_id": {
+    "$oid": "60db60427cda146bdbbb60c0"
+  },
+  "pictureUrl": "product-pictureUrl-1624602936155.png",
+  "pictureUrl2": "",
+  "keywords": [
+    "chicken",
+    "food",
+    "fried"
+  ],
+  "name": "Chicken Caesar Soup",
+  "description": " The dish that tastes good",
+  "price": 30,
+  "type": "top products",
+  "typeof": "product",
+  "store": {
+    "$oid": "5d725a1b7b292f5f8ceff788"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.723Z"
+  }
+},{
+  "_id": {
+    "$oid": "60db60427cda146bdbbb60c1"
+  },
+  "pictureUrl": "product-pictureUrl-1624604495217.png",
+  "pictureUrl2": "",
+  "keywords": [
+    "chicken",
+    "food",
+    "fried"
+  ],
+  "name": "Butter Cheese Chicken",
+  "description": "The dish that tastes good ",
+  "price": 30,
+  "type": "featured products",
+  "typeof": "product",
+  "store": {
+    "$oid": "5d725a1b7b292f5f8ceff788"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.724Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.724Z"
+  }
+},{
+  "_id": {
+    "$oid": "60e692dc57ab3201c701cc10"
+  },
+  "pictureUrl": "product-files-1625723612343.png",
+  "pictureUrl2": "",
+  "keywords": [],
+  "name": "Veg Fries",
+  "store": {
+    "$oid": "5d725cb9c4ded7bcb480eaa1"
+  },
+  "createdAt": {
+    "$date": "2021-07-08T05:53:32.353Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-08T05:53:32.353Z"
+  }
+}]

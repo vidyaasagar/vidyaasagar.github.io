@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "60db60427cda146bdbbb60cd"
+  },
+  "name": "Featured Stores",
+  "type": "featured stores",
+  "status": true,
+  "order": 1,
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.735Z"
+  }
+},{
+  "_id": {
+    "$oid": "60db60427cda146bdbbb60ce"
+  },
+  "name": "Top Stores",
+  "type": "top stores",
+  "status": true,
+  "order": 2,
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.735Z"
+  }
+},{
+  "_id": {
+    "$oid": "60db60427cda146bdbbb60cf"
+  },
+  "name": "Featured Products",
+  "type": "featured products",
+  "status": true,
+  "order": 3,
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.735Z"
+  }
+},{
+  "_id": {
+    "$oid": "60db60427cda146bdbbb60d0"
+  },
+  "name": "Top Products",
+  "type": "top products",
+  "status": true,
+  "order": 4,
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.735Z"
+  }
+}]

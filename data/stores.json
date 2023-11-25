@@ -1,0 +1,298 @@
+[{
+  "_id": {
+    "$oid": "5d713995b721c3bb38c1f5d0"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.856077,
+      40.848447
+    ]
+  },
+  "pictureUrl": "product-pictureUrl-1624604431413.png",
+  "logoUrl": "store-files-1625723655010.png",
+  "name": "Peter Kitchen Fresh Food",
+  "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrass. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+  "type": "",
+  "keywords": [
+    "Fresh Food"
+  ],
+  "typeof": "store",
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d713a66ec8f2b88b8f830b8"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.961704,
+      40.662942
+    ]
+  },
+  "pictureUrl": "product-pictureUrl-1624604431413.png",
+  "logoUrl": "store-files-1625723655010.png",
+  "name": "Boston Kitchen Fresh Food",
+  "description": "",
+  "type": "featured stores",
+  "keywords": [],
+  "typeof": "store",
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d725a037b292f5f8ceff787"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.98242,
+      40.579505
+    ]
+  },
+  "pictureUrl": "product-pictureUrl-1624604371922.png",
+  "logoUrl": "store-files-1625723655010.png",
+  "name": "Boston Kitchen",
+  "description": "",
+  "type": "featured stores",
+  "keywords": [],
+  "typeof": "store",
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d725a1b7b292f5f8ceff788"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.8601152,
+      40.7311739
+    ]
+  },
+  "pictureUrl": "product-pictureUrl-1624604413668.png",
+  "logoUrl": "store-files-1625723655010.png",
+  "name": "Kitchen King",
+  "description": "",
+  "keywords": [
+    "Amish Chicken",
+    "Tuna Tartare"
+  ],
+  "type": "featured stores",
+  "typeof": "store",
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  }
+},{
+  "_id": {
+    "$oid": "60db60427cda146bdbbb6096"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.8803827,
+      40.7643124
+    ]
+  },
+  "pictureUrl": "product-pictureUrl-1624604445503.png",
+  "logoUrl": "store-files-1625723655010.png",
+  "name": "Pete Kitchen Fresh Food",
+  "keywords": [],
+  "description": "",
+  "type": "top stores",
+  "typeof": "store",
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  }
+},{
+  "_id": {
+    "$oid": "60db60427cda146bdbbb6097"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.9851356,
+      40.7676919
+    ]
+  },
+  "pictureUrl": "product-pictureUrl-1624604457229.png",
+  "logoUrl": "store-files-1625723655010.png",
+  "name": "Jane Kitchen Fresh Food",
+  "description": "",
+  "type": "top stores",
+  "keywords": [],
+  "typeof": "store",
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  }
+},{
+  "_id": {
+    "$oid": "60db60427cda146bdbbb6098"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.9068506,
+      40.6199034
+    ]
+  },
+  "pictureUrl": "product-pictureUrl-1624604469049.png",
+  "logoUrl": "store-files-1625723655010.png",
+  "name": "Sara Kitchen Fresh Food",
+  "description": "",
+  "type": "top stores",
+  "typeof": "store",
+  "keywords": [],
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  }
+},{
+  "_id": {
+    "$oid": "60db60427cda146bdbbb6099"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -74.005289,
+      40.628886
+    ]
+  },
+  "pictureUrl": "product-pictureUrl-1624604469049.png",
+  "logoUrl": "store-files-1625723655010.png",
+  "name": "Jake Kitchen Fresh Food",
+  "description": "",
+  "type": "top stores",
+  "typeof": "store",
+  "keywords": [],
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.660Z"
+  }
+},{
+  "_id": {
+    "$oid": "60db60427cda146bdbbb609a"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.9482609,
+      40.6408271
+    ]
+  },
+  "pictureUrl": "product-pictureUrl-1624604445503.png",
+  "logoUrl": "store-files-1625723655010.png",
+  "name": "Jenkins Kitchen Fresh Food",
+  "description": "",
+  "type": "top stores",
+  "typeof": "store",
+  "keywords": [],
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.661Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.661Z"
+  }
+},{
+  "_id": {
+    "$oid": "60db60427cda146bdbbb609b"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -74.1377286,
+      40.6119572
+    ]
+  },
+  "pictureUrl": "product-pictureUrl-1624604469049.png",
+  "logoUrl": "store-files-1625723655010.png",
+  "name": "Jennings Kitchen Fresh Food",
+  "description": "",
+  "type": "top stores",
+  "typeof": "store",
+  "keywords": [],
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.661Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.661Z"
+  }
+},{
+  "_id": {
+    "$oid": "60db60427cda146bdbbb609c"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.8786113,
+      40.8502883
+    ]
+  },
+  "pictureUrl": "product-pictureUrl-1624604445503.png",
+  "logoUrl": "store-files-1625723655010.png",
+  "name": "Robin Kitchen Fresh Food",
+  "description": "",
+  "type": "top stores",
+  "typeof": "store",
+  "keywords": [],
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.661Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.661Z"
+  }
+},{
+  "_id": {
+    "$oid": "60db60427cda146bdbbb609d"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -73.9973325,
+      40.6117489
+    ]
+  },
+  "pictureUrl": "product-pictureUrl-1624604413668.png",
+  "logoUrl": "store-files-1625723655010.png",
+  "name": "Jennifer Kitchen Fresh Food",
+  "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrass. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+  "keywords": [
+    "Chicken Caesar Salad",
+    "Elk Burger",
+    "Jennifer"
+  ],
+  "type": "featured stores",
+  "typeof": "store",
+  "createdAt": {
+    "$date": "2021-06-29T18:02:42.661Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T18:02:42.661Z"
+  }
+}]
